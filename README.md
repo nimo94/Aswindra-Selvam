@@ -10,7 +10,7 @@ I'm a passionate creator who blends **technology and storytelling** — from dir
 ## 🌟 About Me
 
 - 🎓 **Degree in Computer Science** (after completing Foundation in Business with CGPA 3.69 at AIMST University)
-- 🎥 **Director & Editor** of the short films **"Nigazh"** (drug overdose awareness) and **"Uncaffeine"** (submitted to film festivals via FilmFreeway)
+- 🎥 **Director & Editor** of the short films **"Jawara"** (Student of the struggle) and **"Uncaffeine"** (submitted to film festivals via FilmFreeway)
 - 💡 Passionate about **AI**, **IoT (ESP32 projects)**, **Embedded Systems**, and **Smart Interfaces**
 - ❤️ Dedicated to making **mental health concepts** more understandable and accessible
 - 🧩 Currently learning **Python, C++, and AI applications**
@@ -22,14 +22,14 @@ I'm a passionate creator who blends **technology and storytelling** — from dir
 
 - **Languages:** Python, C++, HTML, CSS, JavaScript  
 - **Hardware Projects:** ESP32-S3, ILI9341 & ST7789 displays, SPIFFS storage, GUI and animation design  
-- **Software Tools:** Arduino IDE, PlatformIO, Visual Studio Code  
-- **Other Interests:** AI agents, chatbots, computer vision, and automation systems  
+- **Software Tools:** Arduino IDE, PlatformIO, Visual Studio Code, Pycharm
+- **Other Interests:** AI agents, chatbots, computer vision, and automation systems
 
 ---
 
 ## 🎬 Film & Creative Work
 
-- 🎥 **Nigazh** — Short film raising awareness on avoiding drug overdose, shot across AIMST University  
+- 🎥 **Jawara** — Short film raising awareness on stress of students, shot across SMK SULTAN AHMAD SHAH CAMERON HIGHLANDS  
 - 🎞️ **Uncaffeine** — A film exploring self-control and mental wellness, distributed via FilmFreeway  
 - 🏆 Strong storytelling vision with focus on emotional depth and visual clarity  
 - 🎧 Experienced in directing, editing, and scriptwriting for impactful short films  
@@ -61,6 +61,5 @@ I'm a passionate creator who blends **technology and storytelling** — from dir
 
 ---
 
-> _“Technology gives us the tools to tell better stories — stories that move hearts and minds.”_
 
 ⭐ **Feel free to check out my projects or reach out for collaboration!**
