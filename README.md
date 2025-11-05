@@ -20,7 +20,7 @@ I'm a passionate creator who blends **technology and storytelling** — from dir
 
 ## ⚙️ Technical Skills
 
-- **Languages:** Python, C++, HTML, CSS, JavaScript  
+- **Languages:** Python, C++, C
 - **Hardware Projects:** ESP32-S3, ILI9341 & ST7789 displays, SPIFFS storage, GUI and animation design  
 - **Software Tools:** Arduino IDE, PlatformIO, Visual Studio Code, Pycharm
 - **Other Interests:** AI agents, chatbots, computer vision, and automation systems
