@@ -1,4 +1,5 @@
 # Aswindra-Selvam
+![bannerper](https://i.imgur.com/KcvbWU2.png)
 # 👋 Hi, I'm Aswindra Selvam
 
 🎬 **Film Director | 🎓 Computer Science Student | 🤖 Tech Creator | 🇲🇾 Malaysia**
@@ -9,7 +10,7 @@ I'm a passionate creator who blends **technology and storytelling** — from dir
 
 ## 🌟 About Me
 
-- 🎓 **Degree in Computer Science** (after completing Foundation in Business with CGPA 3.69 at AIMST University)
+- 🎓 **Degree in Computer Science**
 - 🎥 **Director & Editor** of the short films **"Jawara"** (Student of the struggle) and **"Uncaffeine"** (submitted to film festivals via FilmFreeway)
 - 💡 Passionate about **AI**, **IoT (ESP32 projects)**, **Embedded Systems**, and **Smart Interfaces**
 - ❤️ Dedicated to making **mental health concepts** more understandable and accessible
@@ -20,9 +21,9 @@ I'm a passionate creator who blends **technology and storytelling** — from dir
 
 ## ⚙️ Technical Skills
 
-- **Languages:** Python, C++, C
+- **Languages:** <img src="https://media-public.canva.com/sfYE4/MAGV-SsfYE4/1/tl.png" alt="Screenshot" width="40" height="40" />, <img src="https://media-public.canva.com/MADnA7ZIw0A/1/thumbnail_large.png" alt="Screenshot" width="40" height="40" />, <img src="https://media-public.canva.com/TS8g8/MAD2UTTS8g8/1/tl.png" alt="Screenshot" width="40" height="40" />
 - **Hardware Projects:** ESP32-S3, ILI9341 & ST7789 displays, SPIFFS storage, GUI and animation design  
-- **Software Tools:** Arduino IDE, PlatformIO, Visual Studio Code, Pycharm
+- **Software Tools:** <img src="https://media-public.canva.com/MADnA_vHpSI/1/thumbnail_large.png" alt="Screenshot" width="40" height="40" />, <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg" alt="Screenshot" width="40" height="40" />, <img src="https://media-public.canva.com/MADnBsZth6s/3/thumbnail_large.png" alt="Screenshot" width="40" height="40" />, <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Screenshot" width="40" height="40" />
 - **Other Interests:** AI agents, chatbots, computer vision, and automation systems
 
 ---
